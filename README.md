@@ -38,7 +38,8 @@
 
 | تطبيق المستفيد | تطبيق الفني | تطبيق التاجر |
 | :---: | :---: | :---: |
-| ![المستفيد](https://via.placeholder.com/250x500?text=User+App) | ![الفني](https://via.placeholder.com/250x500?text=Technician+App) | ![التاجر](https://via.placeholder.com/250x500?text=Merchant+App) |
+| ![المستفيد](https://github.com/mohammedfaisalalrubaie8-png/Mihna_app/issues/1#issue-5038899120)
+| ![الفني](https://github.com/mohammedfaisalalrubaie8-png/Mihna_app/issues/3#issue-5039142488) | ![التاجر](https://github.com/mohammedfaisalalrubaie8-png/Mihna_app/issues/2#issue-5038990334) |
 
 ---
 
